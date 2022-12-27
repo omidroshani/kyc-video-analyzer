@@ -1,4 +1,4 @@
-# Ghadir AI microservice (v1.0)
+# KYC Video Analyzer microservice (v1.0)
 
 Extract keyframes and voice on a video. Just use this request :
 
